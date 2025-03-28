@@ -1,4 +1,3 @@
-package Tarea_1;
 import java.util.LinkedList;
 
 public class queue {

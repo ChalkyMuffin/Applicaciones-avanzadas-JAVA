@@ -1,4 +1,4 @@
-package Tarea_1;
+
 import java.util.Stack;
 
 public class stack {
